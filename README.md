@@ -28,6 +28,10 @@ Icons from https://simpleicons.org/
 </p>
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frshaad&show_icons=true&theme=radical)
+
+
 <h3><b>Where to find me</b></h3>
 <p>
 <a href="https://github.com/FedericoComoglio" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
