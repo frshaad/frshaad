@@ -42,12 +42,12 @@
 
 ### Last project's PageSpeed insights:
 
-#### [Project Website](https://mahdibahmani.com)
 <br/>
+
+<h4 align="center"><a href="https://mahdibahmani.com">Project Website</a></h4>
+
 <br/>
 
 <p align="center">	<!-- (optional) center align -->
-    <img src="https://pagespeed-insights.herokuapp.com/?url=https://mahdibahmani.com" width="600px">
+    <img src="./pagespeed-insights.herokuapp.svg" width="600px">
 </p>
-
-
