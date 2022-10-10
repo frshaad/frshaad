@@ -31,7 +31,7 @@ Icons from https://simpleicons.org/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frshaad&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frshaad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frshaad&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3><b>Where to find me</b></h3>
