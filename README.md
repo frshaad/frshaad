@@ -35,7 +35,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=frshaad&theme=react&hide_border=true&border_radius=12.5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frshaad&show_icons=true&theme=react&hide_border=true&border_radius=12.5&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
