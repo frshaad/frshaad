@@ -17,25 +17,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frshaad&show_icons=true&theme=react&hide_border=true&border_radius=12.5)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=frshaad&theme=react&hide_border=true&border_radius=12.5)](https://git.io/streak-stats)
 
 
 </div>
-
-
-<br/>
-<br/>
-
-### Last project's PageSpeed insights:
-
-<br/>
-
-<h4 align="center"><a href="https://mahdibahmani.com">Project Website</a></h4>
-
-<br/>
-
-<p align="center">
-    <img src="./pagespeed-insights.herokuapp.svg" width="600px">
-</p>
