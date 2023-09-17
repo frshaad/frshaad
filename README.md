@@ -6,14 +6,3 @@
 
 ## Where I can be found:
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:frshaad@pm.me)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frshaad)[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/frshaad)
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=frshaad&theme=react&hide_border=true&border_radius=12.5)](https://git.io/streak-stats)
-
-
-</div>
